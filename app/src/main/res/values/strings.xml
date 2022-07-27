@@ -16,5 +16,11 @@
     <string name="action_bar_settings">Settings</string>
     <string name="action_bar_books">NY Times Bestselling Books</string>
     <string name="action_bar_search">NY Times Article Search</string>
+    <string name="ic_baseline_home_24">Home</string>
+    <string name="ic_baseline_menu_book_24">Bestseller Books</string>
+    <string name="ic_baseline_search_24">Search Articles</string>
+    <string name="ic_baseline_settings_24">Settings</string>
+
+    <string name="menu_bottom_navigation">menu_bottom_navigation</string>
 
 </resources>
